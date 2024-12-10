@@ -6,6 +6,6 @@ This repository hosts some assignments of HCC's AI Applicaitons & Case Histories
 
 ### Course Assignments
 
-[Get Started with Azure AI Services: Lab Report](https://github.com/TLeonidas/HCC-Deep-Learning-course-portfolio/blob/main/A01_ITA2376.pdf)
+[Get Started with Azure AI Services: Lab Report](https://github.com/TLeonidas/AI-Applications-Course-Portfolio/blob/601949bc9c2a9ae55e9d13bc34c3109ca0e3320b/Starting_with_Azure_AI_Services.pdf)
 
 </div>
