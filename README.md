@@ -22,6 +22,6 @@ This repository hosts some assignments of HCC's AI Applicaitons & Case Histories
 
 [Exploring Microsoft Copilot in Microsoft Edge](https://github.com/TLeonidas/AI-Applications-Course-Portfolio/blob/437e1d047225692f0921decdc32117960c97c31e/L05_Tales_AraujoLeonidas_ITAI2372.pdf)
 
-[Course POortfolio](https://github.com/TLeonidas/AI-Applications-and-Case-Histories-Course-Portfolio/blob/4b99b945c5ed722e6b6b61b7e63bf47fc7f1d5d8/AI_Applications_CoursePortfolio.pdf)
+[Course Portfolio](https://github.com/TLeonidas/AI-Applications-and-Case-Histories-Course-Portfolio/blob/4b99b945c5ed722e6b6b61b7e63bf47fc7f1d5d8/AI_Applications_CoursePortfolio.pdf)
 
 </div>
